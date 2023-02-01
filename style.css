@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+
+  color: black;
+}
+nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.logobox {
+  background-color: aqua;
+}
+.navcontent {
+  background-color: azure;
+}
+
+main {
+  background-color: antiquewhite;
+}
